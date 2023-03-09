@@ -1,0 +1,764 @@
+
+
+[2023-03-06 00:24:29] [Logged Off, 0, 0] [U:1:1133149517] CCMInterface::SetSteamID( [U:1:1133149517] )
+[2023-03-06 00:24:29] [Logged Off, 4, 0] [U:1:1133149517] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2023-03-06 00:24:29] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-06 00:24:29] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-03-06 00:24:29] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:5:100::9b85:ef06]:27019) - SUCCESS
+[2023-03-06 00:24:30] GetCMListForConnect -- got 0 Netfilter CMs and 26 WebSocket CMs
+[2023-03-06 00:24:30] GetCMListForConnect -- DC 'sha1' count: 25
+[2023-03-06 00:24:30] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-06 00:24:30] No NetFilter CMs, defaulting to WebSockets
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:443) results: 53.5352ms + load 35.0000
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) results: 52.8259ms + load 34.0000
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27022) results: 46.7789ms + load 34.0000
+[2023-03-06 00:24:30] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 180.7232ms + load 3.0000
+[2023-03-06 00:24:30] [Connecting, 4, 3] [U:1:1133149517] Connect() starting connection (eNetQOSLevelHigh, cm4-cu-sha1.cm.wmsjsteam.com:27022, WebSocket)
+[2023-03-06 00:24:30] [Connecting, 4, 3] [U:1:1133149517] ConnectionCompleted() (140.206.230.141:27022, WebSocket) local address (192.168.1.2:7113)
+[2023-03-06 00:24:30] [Connecting, 4, 3] [U:1:1133149517] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-06 00:24:30] [Connected, 4, 3] [U:1:1133149517] Logging on [U:1:1133149517]
+[2023-03-06 00:24:30] [Logging On, 4, 3] [U:1:1133149517] Using JWT
+[2023-03-06 00:24:31] [Logging On, 4, 3] [U:1:1133149517] RecvMsgClientLogOnResponse() : [U:1:1133149517] 'OK'
+[2023-03-06 00:24:31] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 01:24:31] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 02:24:31] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 03:24:31] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 03:52:56] [Logged On, 4, 3] [U:1:1133149517] LogOff()
+[2023-03-06 03:52:56] [Logging Off, 4, 3] [U:1:1133149517] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-06 03:52:56] [Logged Off, 0, 0] [U:1:1133149517] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (140.206.230.141:27022, WebSocket)
+[2023-03-06 03:52:56] [Logged Off, 0, 0] [U:1:1133149517] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-06 03:52:56] [Logged Off, 0, 0] [U:1:1133149517] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-06 03:52:58] CCMInterface::OnNetworkDeviceStateChange -- Lost device -299701829 (Connected -> NotPresent)
+[2023-03-06 03:52:59] [Logged Off, 0, 0] [U:1:1133149517] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678045979 seconds ago)
+[2023-03-06 03:52:59] [Logged Off, 0, 0] [U:1:1133149517] Log session ended
+
+
+[2023-03-06 03:53:03] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 03:53:03] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-06 03:53:09] [Logged Off, 0, 0] [U:1:1133149517] CCMInterface::SetSteamID( [U:1:1133149517] )
+[2023-03-06 03:53:09] [Logged Off, 0, 0] [U:1:1133149517] CCMInterface::SetSteamID( [U:1:1133149517] )
+[2023-03-06 03:53:09] [Logged Off, 4, 0] [U:1:1133149517] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2023-03-06 03:53:09] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-06 03:53:09] Connectivity test: OK!
+[2023-03-06 03:53:09] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-06 03:53:09] GetCMListForConnect -- got 0 Netfilter CMs and 24 WebSocket CMs
+[2023-03-06 03:53:09] GetCMListForConnect -- DC 'sha1' count: 23
+[2023-03-06 03:53:09] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-06 03:53:09] No NetFilter CMs, defaulting to WebSockets
+[2023-03-06 03:53:09] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-06 03:53:09] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-06 03:53:09] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-06 03:53:09] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-06 03:53:10] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:443) results: 91.1646ms + load 34.0000
+[2023-03-06 03:53:10] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27021) results: 91.1617ms + load 34.0000
+[2023-03-06 03:53:10] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) results: 82.6378ms + load 33.0000
+[2023-03-06 03:53:10] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 239.6526ms + load 3.0000
+[2023-03-06 03:53:10] [Connecting, 4, 3] [U:1:1133149517] Connect() starting connection (eNetQOSLevelHigh, cm2-cu-sha1.cm.wmsjsteam.com:27020, WebSocket)
+[2023-03-06 03:53:10] [Connecting, 4, 3] [U:1:1133149517] ConnectionCompleted() (140.206.230.139:27020, WebSocket) local address (192.168.1.2:13839)
+[2023-03-06 03:53:10] [Connecting, 4, 3] [U:1:1133149517] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-06 03:53:10] [Connected, 4, 3] [U:1:1133149517] Logging on [U:1:1133149517]
+[2023-03-06 03:53:10] [Logging On, 4, 3] [U:1:1133149517] Using JWT
+[2023-03-06 03:53:11] [Logging On, 4, 3] [U:1:1133149517] RecvMsgClientLogOnResponse() : [U:1:1133149517] 'OK'
+[2023-03-06 03:53:11] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 03:53:11] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:4:100::9b85:f505]:80 ([2404:3fc0:4:100::9b85:f505]:80)) - TIMEOUT
+[2023-03-06 03:53:11] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:2:101::671c:3693]:27019) - SUCCESS
+[2023-03-06 04:53:11] CClientJobGetClientUpdateHosts: cached copy new expiration: Wed Mar  8 10:13:41 2023
+[2023-03-06 05:01:01] [Logged On, 4, 3] [U:1:1133149517] LogOff()
+[2023-03-06 05:01:01] [Logging Off, 4, 3] [U:1:1133149517] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-06 05:01:01] [Logged Off, 0, 0] [U:1:1133149517] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (140.206.230.139:27020, WebSocket)
+[2023-03-06 05:01:01] [Logged Off, 0, 0] [U:1:1133149517] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-06 05:01:01] [Logged Off, 0, 0] [U:1:1133149517] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-06 05:01:06] [Logged Off, 0, 0] [U:1:1133149517] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678050066 seconds ago)
+[2023-03-06 05:01:06] [Logged Off, 0, 0] [U:1:1133149517] Log session ended
+
+
+[2023-03-06 16:30:29] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 16:30:29] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-06 16:30:30] [Logged Off, 0, 0] [U:1:1133149517] CCMInterface::SetSteamID( [U:1:1133149517] )
+[2023-03-06 16:30:30] [Logged Off, 0, 0] [U:1:1133149517] CCMInterface::SetSteamID( [U:1:1133149517] )
+[2023-03-06 16:30:30] [Logged Off, 4, 0] [U:1:1133149517] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2023-03-06 16:30:30] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-06 16:30:30] Connectivity test: OK!
+[2023-03-06 16:30:30] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-06 16:30:31] GetCMListForConnect -- got 0 Netfilter CMs and 25 WebSocket CMs
+[2023-03-06 16:30:31] GetCMListForConnect -- DC 'sha1' count: 24
+[2023-03-06 16:30:31] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-06 16:30:31] No NetFilter CMs, defaulting to WebSockets
+[2023-03-06 16:30:31] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-06 16:30:31] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-06 16:30:31] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-06 16:30:31] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-06 16:30:31] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27020) results: 53.2804ms + load 35.0000
+[2023-03-06 16:30:31] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:443) results: 47.0090ms + load 36.0000
+[2023-03-06 16:30:31] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:27021) results: 104.0816ms + load 34.0000
+[2023-03-06 16:30:32] [Connecting, 4, 0] [U:1:1133149517] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 240.7126ms + load 3.0000
+[2023-03-06 16:30:32] [Connecting, 4, 3] [U:1:1133149517] Connect() starting connection (eNetQOSLevelHigh, cm3-ct-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2023-03-06 16:30:32] [Connecting, 4, 3] [U:1:1133149517] ConnectionCompleted() (101.226.183.182:443, WebSocket) local address (192.168.1.2:8315)
+[2023-03-06 16:30:32] [Connecting, 4, 3] [U:1:1133149517] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-06 16:30:32] [Connected, 4, 3] [U:1:1133149517] Logging on [U:1:1133149517]
+[2023-03-06 16:30:32] [Logging On, 4, 3] [U:1:1133149517] Using JWT
+[2023-03-06 16:30:32] [Logging On, 4, 3] [U:1:1133149517] RecvMsgClientLogOnResponse() : [U:1:1133149517] 'OK'
+[2023-03-06 16:30:32] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 16:30:33] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:2:100::671c:3684]:80 ([2404:3fc0:2:100::671c:3684]:80)) - TIMEOUT
+[2023-03-06 16:30:33] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:2:101::671c:3694]:27019) - SUCCESS
+[2023-03-06 16:30:46] [Logged On, 4, 3] [U:1:1133149517] RecvMsgClientLoggedOff('Request revoked')
+[2023-03-06 16:30:46] [Logged On, 4, 3] [U:1:1133149517] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-06 16:30:46] [Logged Off, 4, 0] [U:1:1133149517] ConnectionDisconnected('I/O Operation Failed') : 'Request revoked' (101.226.183.182:443, WebSocket)
+[2023-03-06 16:30:46] [Logged Off, 4, 0] [U:1:1133149517] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2023-03-06 16:30:46] [Logged Off, 0, 0] [U:1:1133149517] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-06 16:30:46] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 16:30:46] Connectivity test: OK!
+[2023-03-06 16:30:46] Connectivity test: result=Connected (since 15.8s ago), prev=Unknown, in progress=0
+[2023-03-06 16:30:50] [Logged Off, 0, 0] [U:1:1133149517] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678091450 seconds ago)
+[2023-03-06 16:30:50] [Logged Off, 0, 0] [U:1:1133149517] Log session ended
+
+
+[2023-03-06 16:30:53] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 16:30:53] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-06 16:30:54] [Logged Off, 0, 0] [U:1:0] LogOff()
+[2023-03-06 16:30:54] Connectivity test: OK!
+[2023-03-06 16:30:54] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-06 16:30:55] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-06 16:30:55] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:2:100::671c:3684]:80 ([2404:3fc0:2:100::671c:3684]:80)) - SUCCESS
+[2023-03-06 16:30:55] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:2:100::671c:3684]:80 ([2404:3fc0:2:100::671c:3684]:80)) - server indicated we are using ipv6, external address = '240e:3b1:18b5:45c0:84a:70c9:7bc8:1011'
+[2023-03-06 16:30:56] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:2:101::671c:3693]:27019) - SUCCESS
+[2023-03-06 16:30:56] GetCMListForConnect -- got 0 Netfilter CMs and 25 WebSocket CMs
+[2023-03-06 16:30:56] GetCMListForConnect -- DC 'sha1' count: 24
+[2023-03-06 16:30:56] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-06 16:30:56] No NetFilter CMs, defaulting to WebSockets
+[2023-03-06 16:30:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-06 16:30:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-06 16:30:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-06 16:30:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-06 16:30:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:27022) results: 53.9742ms + load 35.0000
+[2023-03-06 16:30:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27020) results: 56.8690ms + load 35.0000
+[2023-03-06 16:30:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) results: 51.2695ms + load 37.0000
+[2023-03-06 16:30:57] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 246.2082ms + load 3.0000
+[2023-03-06 16:30:57] [Connecting, 0, 3] [U:1:0] Connect() starting connection (eNetQOSLevelHigh, cm1-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2023-03-06 16:30:57] [Connecting, 0, 3] [U:1:0] ConnectionCompleted() (140.206.230.138:443, WebSocket) local address (192.168.1.2:8379)
+[2023-03-06 16:30:57] [Connecting, 0, 3] [U:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-06 16:31:04] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-06 16:31:04] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-06 16:32:04] [Connected, 0, 3] [U:1:0] RecvMsgClientLogOnResponse() : 'Failure', ignored since we're not waiting for a logon response
+[2023-03-06 16:32:04] [Logged Off, 0, 0] [U:1:0] ConnectionDisconnected('I/O Operation Failed') : 'Failure' (140.206.230.138:443, WebSocket)
+[2023-03-06 16:32:04] [Logged Off, 0, 0] [U:1:0] StartAutoReconnect() will start in 15.0 seconds (attempt 1)
+[2023-03-06 16:32:04] [Logged Off, 0, 0] [U:1:0] Sending SteamServerConnectFailure_t No Connection Reconnect
+[2023-03-06 16:32:04] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 16:32:04] Connectivity test: OK!
+[2023-03-06 16:32:04] Connectivity test: result=Connected (since 70.1s ago), prev=Unknown, in progress=0
+[2023-03-06 16:32:06] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:2:100::671c:3684]:80 ([2404:3fc0:2:100::671c:3684]:80)) - TIMEOUT
+[2023-03-06 16:32:06] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:2:101::671c:3693]:27019) - SUCCESS
+[2023-03-06 16:32:17] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-06 16:32:17] GetCMListForConnect -- got 0 Netfilter CMs and 26 WebSocket CMs
+[2023-03-06 16:32:17] GetCMListForConnect -- DC 'sha1' count: 25
+[2023-03-06 16:32:17] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-06 16:32:17] No NetFilter CMs, defaulting to WebSockets
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] EConnect called but connection job is already running
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27022) results: 63.2019ms + load 35.0000
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27021) results: 57.2433ms + load 36.0000
+[2023-03-06 16:32:17] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:443) results: 69.9234ms + load 37.0000
+[2023-03-06 16:32:18] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 228.0502ms + load 3.0000
+[2023-03-06 16:32:18] [Connecting, 0, 7] [U:1:0] Connect() starting connection (eNetQOSLevelHigh, cm2-ct-sha1.cm.wmsjsteam.com:27021, WebSocket)
+[2023-03-06 16:32:18] [Connecting, 0, 7] [U:1:0] ConnectionCompleted() (101.226.183.186:27021, WebSocket) local address (192.168.1.2:8437)
+[2023-03-06 16:32:18] [Connecting, 0, 7] [U:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-06 16:32:19] [Connected, 0, 7] [U:1:0] ScheduledAttemptReconnect() not reconnecting due to already having an hConnection
+[2023-03-06 16:32:19] [Connected, 0, 7] [U:1:0] EConnect called while we're already connected
+[2023-03-06 16:32:21] Clearing in-memory token - 1 (OK): set to null
+[2023-03-06 16:32:21] [Connected, 0, 7] [U:1:1437921003] CCMInterface::SetSteamID( [U:1:1437921003] )
+[2023-03-06 16:32:21] [Connected, 0, 7] [U:1:1437921003] CCMInterface::SetSteamID( [U:1:1437921003] )
+[2023-03-06 16:32:21] [Connected, 4, 7] [U:1:1437921003] LogOn() called; already connected, sending credentials.
+
+[2023-03-06 16:32:21] [Connected, 4, 7] [U:1:1437921003] Logging on [U:1:1437921003]
+[2023-03-06 16:32:21] [Logging On, 4, 7] [U:1:1437921003] Using JWT
+[2023-03-06 16:32:22] [Logging On, 4, 7] [U:1:1437921003] RecvMsgClientLogOnResponse() : [U:1:1437921003] 'OK'
+[2023-03-06 16:32:22] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 16:36:08] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (143509440)
+[2023-03-06 16:36:08] CCMInterface::OnNetworkDeviceStateChange -- Already connected...
+[2023-03-06 16:36:09] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 16:36:09] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 16:36:12] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 16:36:13] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 16:36:16] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 16:36:16] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 16:36:20] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 16:36:20] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 16:37:58] [Logged On, 4, 7] [U:1:1437921003] LogOff()
+[2023-03-06 16:37:58] [Logging Off, 4, 7] [U:1:1437921003] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-06 16:37:59] [Logged Off, 0, 0] [U:1:1437921003] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (101.226.183.186:27021, WebSocket)
+[2023-03-06 16:37:59] [Logged Off, 0, 0] [U:1:1437921003] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-06 16:37:59] [Logged Off, 0, 0] [U:1:1437921003] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-06 16:38:00] [Logged Off, 0, 0] [U:1:1437921003] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678091880 seconds ago)
+[2023-03-06 16:38:00] [Logged Off, 0, 0] [U:1:1437921003] Log session ended
+
+
+[2023-03-06 16:50:00] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 16:50:00] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-06 16:50:16] Connectivity test: HTTP fetch failed
+[2023-03-06 16:50:16] Connectivity test: result=TimedOut (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-06 16:50:17] [Logged Off, 0, 0] [U:1:1437921003] CCMInterface::SetSteamID( [U:1:1437921003] )
+[2023-03-06 16:50:17] [Logged Off, 0, 0] [U:1:1437921003] CCMInterface::SetSteamID( [U:1:1437921003] )
+[2023-03-06 16:50:17] [Logged Off, 4, 0] [U:1:1437921003] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2023-03-06 16:50:17] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-06 16:50:17] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-03-06 16:50:17] GetCMListForConnect -- got 0 Netfilter CMs and 22 WebSocket CMs
+[2023-03-06 16:50:17] GetCMListForConnect -- DC 'sha1' count: 21
+[2023-03-06 16:50:17] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-06 16:50:17] No NetFilter CMs, defaulting to WebSockets
+[2023-03-06 16:50:17] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-06 16:50:17] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-06 16:50:17] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-06 16:50:17] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-06 16:50:18] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:2:101::671c:3693]:27019) - SUCCESS
+[2023-03-06 16:50:18] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27022) results: 51.8570ms + load 35.0000
+[2023-03-06 16:50:18] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:443) results: 51.9047ms + load 36.0000
+[2023-03-06 16:50:18] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27020) results: 51.9028ms + load 35.0000
+[2023-03-06 16:50:18] [Connecting, 4, 0] [U:1:1437921003] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 182.6954ms + load 3.0000
+[2023-03-06 16:50:18] [Connecting, 4, 3] [U:1:1437921003] Connect() starting connection (eNetQOSLevelHigh, cm1-ct-sha1.cm.wmsjsteam.com:27022, WebSocket)
+[2023-03-06 16:50:18] [Connecting, 4, 3] [U:1:1437921003] ConnectionCompleted() (101.226.183.185:27022, WebSocket) local address (192.168.1.2:8615)
+[2023-03-06 16:50:18] [Connecting, 4, 3] [U:1:1437921003] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-06 16:50:18] [Connected, 4, 3] [U:1:1437921003] Logging on [U:1:1437921003]
+[2023-03-06 16:50:18] [Logging On, 4, 3] [U:1:1437921003] Using JWT
+[2023-03-06 16:50:18] [Logging On, 4, 3] [U:1:1437921003] RecvMsgClientLogOnResponse() : [U:1:1437921003] 'OK'
+[2023-03-06 16:50:18] Connectivity test: result=Connected (since 0.0s ago), prev=TimedOut, in progress=0
+[2023-03-06 16:50:18] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 16:50:22] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 16:50:23] Connectivity test: OK!
+[2023-03-06 16:50:23] Connectivity test: result=Connected (since 4.2s ago), prev=TimedOut, in progress=0
+[2023-03-06 17:27:52] CCMInterface::OnNetworkDeviceStateChange -- Lost device 143509440 (Connected -> NotPresent)
+[2023-03-06 17:27:52] CCMInterface::OnNetworkDeviceStateChange -- Lost device does not match current connection...
+[2023-03-06 17:27:53] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 17:27:53] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 17:27:57] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 17:27:57] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 17:28:00] [Logged On, 4, 3] [U:1:1437921003] LogOff()
+[2023-03-06 17:28:00] [Logging Off, 4, 3] [U:1:1437921003] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-06 17:28:00] [Logged Off, 0, 0] [U:1:1437921003] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (101.226.183.185:27022, WebSocket)
+[2023-03-06 17:28:00] [Logged Off, 0, 0] [U:1:1437921003] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-06 17:28:00] [Logged Off, 0, 0] [U:1:1437921003] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-06 17:28:00] [Logged Off, 0, 0] [U:1:1437921003] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678094880 seconds ago)
+[2023-03-06 17:28:00] [Logged Off, 0, 0] [U:1:1437921003] Log session ended
+
+
+[2023-03-06 17:28:04] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-06 17:28:04] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-06 17:28:05] [Logged Off, 0, 0] [U:1:0] LogOff()
+[2023-03-06 17:28:05] Connectivity test: OK!
+[2023-03-06 17:28:05] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-06 17:28:07] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-06 17:28:07] GetCMListForConnect -- got 0 Netfilter CMs and 27 WebSocket CMs
+[2023-03-06 17:28:07] GetCMListForConnect -- DC 'sha1' count: 26
+[2023-03-06 17:28:07] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-06 17:28:07] No NetFilter CMs, defaulting to WebSockets
+[2023-03-06 17:28:07] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-06 17:28:07] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-06 17:28:07] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-06 17:28:07] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-06 17:28:07] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:5:101::9b85:ef27]:80 ([2404:3fc0:5:101::9b85:ef27]:80)) - TIMEOUT
+[2023-03-06 17:28:08] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) results: 99.4864ms + load 38.0000
+[2023-03-06 17:28:08] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27021) results: 90.9901ms + load 35.0000
+[2023-03-06 17:28:08] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) results: 84.1699ms + load 36.0000
+[2023-03-06 17:28:08] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 245.3279ms + load 4.0000
+[2023-03-06 17:28:08] [Connecting, 0, 3] [U:1:0] Connect() starting connection (eNetQOSLevelHigh, cm2-cu-sha1.cm.wmsjsteam.com:27020, WebSocket)
+[2023-03-06 17:28:08] [Connecting, 0, 3] [U:1:0] ConnectionCompleted() (140.206.230.139:27020, WebSocket) local address (192.168.1.2:12109)
+[2023-03-06 17:28:08] [Connecting, 0, 3] [U:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-06 17:28:09] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / 2404:3fc0:4:100::9b85:f505) - TIMEOUT
+[2023-03-06 17:28:13] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-06 17:28:13] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-06 17:28:14] Clearing in-memory token - 1 (OK): set to null
+[2023-03-06 17:28:14] [Connected, 0, 3] [U:1:1133149517] CCMInterface::SetSteamID( [U:1:1133149517] )
+[2023-03-06 17:28:14] [Connected, 0, 3] [U:1:1133149517] CCMInterface::SetSteamID( [U:1:1133149517] )
+[2023-03-06 17:28:14] [Connected, 4, 3] [U:1:1133149517] LogOn() called; already connected, sending credentials.
+
+[2023-03-06 17:28:14] [Connected, 4, 3] [U:1:1133149517] Logging on [U:1:1133149517]
+[2023-03-06 17:28:14] [Logging On, 4, 3] [U:1:1133149517] Using JWT
+[2023-03-06 17:28:14] [Logging On, 4, 3] [U:1:1133149517] RecvMsgClientLogOnResponse() : [U:1:1133149517] 'OK'
+[2023-03-06 17:28:14] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 18:28:14] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 18:30:18] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (2086964190)
+[2023-03-06 18:30:18] CCMInterface::OnNetworkDeviceStateChange -- Already connected...
+[2023-03-06 18:30:19] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 18:30:19] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 18:30:23] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 18:30:23] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 18:30:26] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 18:30:26] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 18:30:30] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 18:30:30] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 19:28:14] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 20:28:14] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 21:28:14] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 22:28:14] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-06 22:55:11] CCMInterface::OnNetworkDeviceStateChange -- Lost device 2086964190 (Connected -> NotPresent)
+[2023-03-06 22:55:11] CCMInterface::OnNetworkDeviceStateChange -- Lost device does not match current connection...
+[2023-03-06 22:55:12] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 22:55:12] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 22:55:16] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 22:55:16] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 22:55:19] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 22:55:19] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 22:55:23] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-06 22:55:23] CCMInterface - received heartbeat response, connection still good
+[2023-03-06 23:28:14] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 00:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 01:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 02:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 03:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 04:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 05:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 06:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 07:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 08:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 09:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 10:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 11:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 12:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 13:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 14:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 15:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 16:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 17:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 18:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 19:28:15] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 20:13:59] [Logged On, 4, 3] [U:1:1133149517] RecvMsgClientLoggedOff('Request revoked')
+[2023-03-07 20:13:59] [Logged On, 4, 3] [U:1:1133149517] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-07 20:14:00] [Logged Off, 4, 0] [U:1:1133149517] ConnectionDisconnected('I/O Operation Failed') : 'Request revoked' (140.206.230.139:27020, WebSocket)
+[2023-03-07 20:14:00] [Logged Off, 4, 0] [U:1:1133149517] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2023-03-07 20:14:00] [Logged Off, 0, 0] [U:1:1133149517] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-07 20:14:00] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-07 20:14:00] Connectivity test: OK!
+[2023-03-07 20:14:00] Connectivity test: result=Connected (since 96355.0s ago), prev=Unknown, in progress=0
+[2023-03-07 20:14:05] [Logged Off, 0, 0] [U:1:1133149517] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678191245 seconds ago)
+[2023-03-07 20:14:05] [Logged Off, 0, 0] [U:1:1133149517] Log session ended
+
+
+[2023-03-07 20:14:09] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-07 20:14:09] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-07 20:14:17] [Logged Off, 0, 0] [U:1:0] LogOff()
+[2023-03-07 20:14:18] Connectivity test: OK!
+[2023-03-07 20:14:18] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-07 20:14:18] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-07 20:14:19] GetCMListForConnect -- got 0 Netfilter CMs and 25 WebSocket CMs
+[2023-03-07 20:14:19] GetCMListForConnect -- DC 'sha1' count: 24
+[2023-03-07 20:14:19] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-07 20:14:19] No NetFilter CMs, defaulting to WebSockets
+[2023-03-07 20:14:19] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-07 20:14:19] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-07 20:14:19] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-07 20:14:19] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-07 20:14:19] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27020) results: 49.8428ms + load 37.0000
+[2023-03-07 20:14:19] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27021) results: 100.1024ms + load 37.0000
+[2023-03-07 20:14:19] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:443) results: 56.9239ms + load 37.0000
+[2023-03-07 20:14:19] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:2:100::671c:3684]:80 ([2404:3fc0:2:100::671c:3684]:80)) - TIMEOUT
+[2023-03-07 20:14:20] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:5:100::9b85:ef07]:27019) - SUCCESS
+[2023-03-07 20:14:20] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) failed talking to cm (timeout/neterror - Invalid)
+[2023-03-07 20:14:20] [Connecting, 0, 3] [U:1:0] Connect() starting connection (eNetQOSLevelHigh, cm2-ct-sha1.cm.wmsjsteam.com:27020, WebSocket)
+[2023-03-07 20:14:20] [Connecting, 0, 3] [U:1:0] ConnectionCompleted() (101.226.183.186:27020, WebSocket) local address (192.168.1.2:2451)
+[2023-03-07 20:14:20] [Connecting, 0, 3] [U:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-07 20:14:42] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-07 20:14:43] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-07 20:14:44] Clearing in-memory token - 1 (OK): set to null
+[2023-03-07 20:14:44] [Connected, 0, 3] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-07 20:14:44] [Connected, 0, 3] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-07 20:14:44] [Connected, 4, 3] [U:1:1439669904] LogOn() called; already connected, sending credentials.
+
+[2023-03-07 20:14:44] [Connected, 4, 3] [U:1:1439669904] Logging on [U:1:1439669904]
+[2023-03-07 20:14:44] [Logging On, 4, 3] [U:1:1439669904] Using JWT
+[2023-03-07 20:14:45] [Logging On, 4, 3] [U:1:1439669904] RecvMsgClientLogOnResponse() : [U:1:1439669904] 'OK'
+[2023-03-07 20:14:45] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 20:14:52] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (950082568)
+[2023-03-07 20:14:52] CCMInterface::OnNetworkDeviceStateChange -- Already connected...
+[2023-03-07 20:14:53] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-07 20:14:53] CCMInterface - received heartbeat response, connection still good
+[2023-03-07 20:14:57] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-07 20:14:57] CCMInterface - received heartbeat response, connection still good
+[2023-03-07 20:15:00] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-07 20:15:00] CCMInterface - received heartbeat response, connection still good
+[2023-03-07 20:15:04] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-07 20:15:04] CCMInterface - received heartbeat response, connection still good
+[2023-03-07 20:15:38] [Logged On, 4, 3] [U:1:1439669904] RecvMsgClientLoggedOff('Logged In Elsewhere')
+[2023-03-07 20:15:38] [Logged On, 4, 3] [U:1:1439669904] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-07 20:15:38] [Logged Off, 4, 0] [U:1:1439669904] ConnectionDisconnected('Disconnected By Remote Host') : 'Logged In Elsewhere' (101.226.183.186:27020, WebSocket)
+[2023-03-07 20:15:38] [Logged Off, 4, 0] [U:1:1439669904] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2023-03-07 20:15:38] [Logged Off, 0, 0] [U:1:1439669904] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-07 20:15:39] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-07 20:15:39] GetCMListForConnect -- got 0 Netfilter CMs and 24 WebSocket CMs
+[2023-03-07 20:15:39] GetCMListForConnect -- DC 'sha1' count: 23
+[2023-03-07 20:15:39] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-07 20:15:39] No NetFilter CMs, defaulting to WebSockets
+[2023-03-07 20:15:39] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-07 20:15:39] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-07 20:15:39] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-07 20:15:39] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-07 20:15:39] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27021) results: 54.8782ms + load 37.0000
+[2023-03-07 20:15:39] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27020) results: 55.0613ms + load 36.0000
+[2023-03-07 20:15:39] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) results: 49.0341ms + load 39.0000
+[2023-03-07 20:15:40] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 182.5485ms + load 3.0000
+[2023-03-07 20:15:40] [Connecting, 0, 7] [U:1:1439669904] Connect() starting connection (eNetQOSLevelMedium, cm1-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2023-03-07 20:15:40] [Connecting, 0, 7] [U:1:1439669904] ConnectionCompleted() (140.206.230.138:443, WebSocket) local address (192.168.1.2:11126)
+[2023-03-07 20:15:40] [Connecting, 0, 7] [U:1:1439669904] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-07 20:15:42] [Connected, 0, 7] [U:1:1439669904] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678191342 seconds ago)
+[2023-03-07 20:15:42] [Connected, 0, 7] [U:1:1439669904] Log session ended
+
+
+[2023-03-07 20:19:23] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-07 20:19:23] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-07 20:19:25] Connectivity test: OK!
+[2023-03-07 20:19:25] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-07 20:19:25] [Logged Off, 0, 0] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-07 20:19:25] [Logged Off, 0, 0] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-07 20:19:25] [Logged Off, 4, 0] [U:1:1439669904] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2023-03-07 20:19:25] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-07 20:19:25] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-03-07 20:19:25] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:2:100::671c:3688]:27019) - SUCCESS
+[2023-03-07 20:19:25] GetCMListForConnect -- got 0 Netfilter CMs and 26 WebSocket CMs
+[2023-03-07 20:19:25] GetCMListForConnect -- DC 'sha1' count: 25
+[2023-03-07 20:19:25] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-07 20:19:25] No NetFilter CMs, defaulting to WebSockets
+[2023-03-07 20:19:25] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-07 20:19:25] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-07 20:19:25] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-07 20:19:25] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-07 20:19:25] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27022) results: 51.4045ms + load 36.0000
+[2023-03-07 20:19:25] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27021) results: 45.1570ms + load 36.0000
+[2023-03-07 20:19:25] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:443) results: 38.8160ms + load 40.0000
+[2023-03-07 20:19:26] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 179.8658ms + load 3.0000
+[2023-03-07 20:19:26] [Connecting, 4, 3] [U:1:1439669904] Connect() starting connection (eNetQOSLevelHigh, cm4-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2023-03-07 20:19:26] [Connecting, 4, 3] [U:1:1439669904] ConnectionCompleted() (140.206.230.141:443, WebSocket) local address (192.168.1.2:3452)
+[2023-03-07 20:19:26] [Connecting, 4, 3] [U:1:1439669904] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-07 20:19:26] [Connected, 4, 3] [U:1:1439669904] Logging on [U:1:1439669904]
+[2023-03-07 20:19:26] [Logging On, 4, 3] [U:1:1439669904] Using JWT
+[2023-03-07 20:19:26] [Logging On, 4, 3] [U:1:1439669904] RecvMsgClientLogOnResponse() : [I:0:0] 'Access Denied'
+[2023-03-07 20:19:26] Clearing in-memory token - 15 (Access Denied): LogonFailureReceived(2)
+[2023-03-07 20:19:26] [Logging On, 4, 3] [U:1:1439669904] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-07 20:19:26] [Logged Off, 4, 0] [U:1:1439669904] ConnectionDisconnected('I/O Operation Failed') : 'Access Denied' (140.206.230.141:443, WebSocket)
+[2023-03-07 20:19:26] [Logged Off, 4, 0] [U:1:1439669904] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2023-03-07 20:19:26] [Logged Off, 0, 0] [U:1:1439669904] Sending SteamServerConnectFailure_t Access Denied Do not reconnect
+[2023-03-07 20:19:26] [Logged Off, 0, 0] [U:1:1439669904] LogOff()
+[2023-03-07 20:19:27] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-07 20:19:27] Connectivity test: OK!
+[2023-03-07 20:19:27] Connectivity test: result=Connected (since 2.1s ago), prev=Unknown, in progress=0
+[2023-03-07 20:19:27] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-07 20:19:27] GetCMListForConnect -- got 0 Netfilter CMs and 26 WebSocket CMs
+[2023-03-07 20:19:27] GetCMListForConnect -- DC 'sha1' count: 25
+[2023-03-07 20:19:27] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-07 20:19:27] No NetFilter CMs, defaulting to WebSockets
+[2023-03-07 20:19:27] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-07 20:19:27] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-07 20:19:27] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-07 20:19:27] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-07 20:19:27] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27021) results: 72.5641ms + load 37.0000
+[2023-03-07 20:19:28] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 189.1909ms + load 3.0000
+[2023-03-07 20:19:28] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27021) results: 59.7014ms + load 37.0000
+[2023-03-07 20:19:28] [Connecting, 0, 0] [U:1:1439669904] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:443) results: 53.7109ms + load 40.0000
+[2023-03-07 20:19:28] [Connecting, 0, 7] [U:1:1439669904] Connect() starting connection (eNetQOSLevelHigh, cm4-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2023-03-07 20:19:28] [Connecting, 0, 7] [U:1:1439669904] ConnectionCompleted() (140.206.230.141:443, WebSocket) local address (192.168.1.2:3456)
+[2023-03-07 20:19:28] [Connecting, 0, 7] [U:1:1439669904] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-07 20:19:30] [Connected, 0, 7] [U:1:1439669904] EConnect called while we're already connected
+[2023-03-07 20:19:31] [Connected, 0, 7] [U:1:1439669904] EConnect called while we're already connected
+[2023-03-07 20:19:40] Clearing in-memory token - 1 (OK): set to null
+[2023-03-07 20:19:40] [Connected, 0, 7] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-07 20:19:41] [Connected, 0, 7] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-07 20:19:41] [Connected, 4, 7] [U:1:1439669904] LogOn() called; already connected, sending credentials.
+
+[2023-03-07 20:19:41] [Connected, 4, 7] [U:1:1439669904] Logging on [U:1:1439669904]
+[2023-03-07 20:19:41] [Logging On, 4, 7] [U:1:1439669904] Using JWT
+[2023-03-07 20:19:41] [Logging On, 4, 7] [U:1:1439669904] RecvMsgClientLogOnResponse() : [U:1:1439669904] 'OK'
+[2023-03-07 20:19:41] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 21:19:41] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 22:19:41] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-07 23:19:41] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 00:19:41] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 01:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 02:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 03:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 04:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 05:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 06:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 06:58:08] [Logged Off, 4, 0] [U:1:1439669904] ConnectionDisconnected('I/O Operation Failed') : 'OK' (140.206.230.141:443, WebSocket)
+[2023-03-08 06:58:08] [Logged Off, 4, 0] [U:1:1439669904] StartAutoReconnect() will start in 18.0 seconds (attempt 1)
+[2023-03-08 06:58:08] [Logged Off, 4, 0] [U:1:1439669904] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-08 06:58:09] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-03-08 06:58:09] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-08 06:58:09] Connectivity test: OK!
+[2023-03-08 06:58:09] Connectivity test: result=Connected (since 38324.3s ago), prev=Unknown, in progress=0
+[2023-03-08 06:58:11] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / 2404:3fc0:2:100::671c:3684) - TIMEOUT
+[2023-03-08 06:58:26] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-08 06:58:27] GetCMListForConnect -- web API call failed (status = 500)
+[2023-03-08 06:58:27] No NetFilter CMs, defaulting to WebSockets
+[2023-03-08 06:58:27] [Connecting, 4, 0] [U:1:1439669904] Existing WebSocket ping data (ext2-sea1.steamserver.net:27026) results: 189.1909ms + load 3.0000 (38339 seconds ago)
+[2023-03-08 06:58:27] [Connecting, 4, 0] [U:1:1439669904] Existing WebSocket ping data (cm4-cu-sha1.cm.wmsjsteam.com:443) results: 53.7109ms + load 40.0000 (38339 seconds ago)
+[2023-03-08 06:58:27] [Connecting, 4, 0] [U:1:1439669904] Existing WebSocket ping data (cm4-cu-sha1.cm.wmsjsteam.com:27021) results: 59.7014ms + load 37.0000 (38339 seconds ago)
+[2023-03-08 06:58:27] [Connecting, 4, 0] [U:1:1439669904] Existing WebSocket ping data (cm3-ct-sha1.cm.wmsjsteam.com:27021) results: 72.5641ms + load 37.0000 (38340 seconds ago)
+[2023-03-08 06:58:27] [Connecting, 4, 15] [U:1:1439669904] Connect() starting connection (eNetQOSLevelLow, cm4-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2023-03-08 06:58:48] [Connecting, 4, 0] [U:1:1439669904] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2023-03-08 06:58:48] [Connecting, 4, 0] [U:1:1439669904] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-08 06:58:48] [Logged Off, 4, 0] [U:1:1439669904] StartAutoReconnect() will start in 20.0 seconds (attempt 2)
+[2023-03-08 06:58:48] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-03-08 06:58:48] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:2:101::671c:3694]:27019) - SUCCESS
+[2023-03-08 06:58:49] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-08 06:58:49] Connectivity test: OK!
+[2023-03-08 06:58:49] Connectivity test: result=Connected (since 38364.2s ago), prev=Unknown, in progress=0
+[2023-03-08 06:59:08] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-08 06:59:08] GetCMListForConnect -- got 0 Netfilter CMs and 8 WebSocket CMs
+[2023-03-08 06:59:08] GetCMListForConnect -- DC 'sha1' count: 8
+[2023-03-08 06:59:08] No NetFilter CMs, defaulting to WebSockets
+[2023-03-08 06:59:08] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-08 06:59:08] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-08 06:59:08] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-08 06:59:09] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27022) failed talking to cm (timeout/neterror - Invalid)
+[2023-03-08 06:59:09] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2023-03-08 06:59:09] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-03-08 06:59:09] [Connecting, 4, 19] [U:1:1439669904] Connect() starting connection (eNetQOSLevelLow, cm1-ct-sha1.cm.wmsjsteam.com:27021, WebSocket)
+[2023-03-08 06:59:13] [Connecting, 4, 19] [U:1:1439669904] ConnectionCompleted() (101.226.183.185:27021, WebSocket) local address (192.168.1.2:9526)
+[2023-03-08 06:59:13] [Connecting, 4, 19] [U:1:1439669904] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-08 06:59:13] [Connected, 4, 19] [U:1:1439669904] Logging on [U:1:1439669904]
+[2023-03-08 06:59:13] [Logging On, 4, 19] [U:1:1439669904] Using JWT
+[2023-03-08 06:59:13] [Logging On, 4, 19] [U:1:1439669904] RecvMsgClientLogOnResponse() : [U:1:1439669904] 'OK'
+[2023-03-08 07:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 08:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 09:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 10:19:42] CClientJobGetClientUpdateHosts: cached copy new expiration: Fri Mar 10 11:33:35 2023
+[2023-03-08 10:33:52] CCMInterface::OnNetworkDeviceStateChange -- Lost device 950082568 (Connected -> NotPresent)
+[2023-03-08 10:33:52] CCMInterface::OnNetworkDeviceStateChange -- Lost device does not match current connection...
+[2023-03-08 10:33:53] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 10:33:53] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 10:33:57] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 10:33:57] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 10:34:01] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 10:34:01] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 10:34:04] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 10:34:04] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 11:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 12:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 13:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 14:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 15:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 16:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 17:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 18:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 19:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 19:56:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (591679380)
+[2023-03-08 19:56:34] CCMInterface::OnNetworkDeviceStateChange -- Already connected...
+[2023-03-08 19:56:35] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 19:56:35] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 19:56:39] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 19:56:39] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 19:56:42] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 19:56:42] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 19:56:46] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-08 19:56:46] CCMInterface - received heartbeat response, connection still good
+[2023-03-08 20:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 21:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 22:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-08 23:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 00:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 01:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 02:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 03:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 04:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 05:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 06:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 07:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 08:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 09:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 10:19:42] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 11:19:43] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 12:19:43] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 12:37:57] CCMInterface::OnNetworkDeviceStateChange -- Lost device 591679380 (Connected -> Disconnected)
+[2023-03-09 12:37:57] CCMInterface::OnNetworkDeviceStateChange -- Lost device does not match current connection...
+[2023-03-09 12:37:58] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 12:37:58] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 12:38:02] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 12:38:02] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 12:38:05] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 12:38:05] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 12:38:09] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 12:38:09] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 13:19:43] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 14:19:44] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 15:19:44] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 16:19:44] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 17:19:44] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 17:26:02] [Logged On, 4, 19] [U:1:1439669904] LogOff()
+[2023-03-09 17:26:02] [Logging Off, 4, 19] [U:1:1439669904] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-09 17:26:02] [Logged Off, 0, 0] [U:1:1439669904] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (101.226.183.185:27021, WebSocket)
+[2023-03-09 17:26:02] [Logged Off, 0, 0] [U:1:1439669904] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-09 17:26:02] [Logged Off, 0, 0] [U:1:1439669904] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-09 17:26:07] [Logged Off, 0, 0] [U:1:1439669904] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678353967 seconds ago)
+[2023-03-09 17:26:07] [Logged Off, 0, 0] [U:1:1439669904] Log session ended
+
+
+[2023-03-09 17:26:54] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-09 17:26:54] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-09 17:27:03] [Logged Off, 0, 0] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-09 17:27:03] [Logged Off, 0, 0] [U:1:1439669904] CCMInterface::SetSteamID( [U:1:1439669904] )
+[2023-03-09 17:27:03] [Logged Off, 4, 0] [U:1:1439669904] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2023-03-09 17:27:03] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-09 17:27:03] Connectivity test: OK!
+[2023-03-09 17:27:03] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-09 17:27:03] GetCMListForConnect -- got 0 Netfilter CMs and 25 WebSocket CMs
+[2023-03-09 17:27:03] GetCMListForConnect -- DC 'sha1' count: 24
+[2023-03-09 17:27:03] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-09 17:27:03] No NetFilter CMs, defaulting to WebSockets
+[2023-03-09 17:27:03] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-09 17:27:03] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-09 17:27:03] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-09 17:27:03] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-09 17:27:03] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:443) results: 50.9863ms + load 36.0000
+[2023-03-09 17:27:03] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27020) results: 41.9855ms + load 36.0000
+[2023-03-09 17:27:03] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27021) results: 41.9769ms + load 36.0000
+[2023-03-09 17:27:04] [Connecting, 4, 0] [U:1:1439669904] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 215.8041ms + load 4.0000
+[2023-03-09 17:27:04] [Connecting, 4, 3] [U:1:1439669904] Connect() starting connection (eNetQOSLevelHigh, cm1-ct-sha1.cm.wmsjsteam.com:27021, WebSocket)
+[2023-03-09 17:27:04] [Connecting, 4, 3] [U:1:1439669904] ConnectionCompleted() (101.226.183.185:27021, WebSocket) local address (192.168.1.2:5292)
+[2023-03-09 17:27:04] [Connecting, 4, 3] [U:1:1439669904] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-09 17:27:04] [Connected, 4, 3] [U:1:1439669904] Logging on [U:1:1439669904]
+[2023-03-09 17:27:04] [Logging On, 4, 3] [U:1:1439669904] Using JWT
+[2023-03-09 17:27:04] [Logging On, 4, 3] [U:1:1439669904] RecvMsgClientLogOnResponse() : [U:1:1439669904] 'OK'
+[2023-03-09 17:27:04] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 17:27:05] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:5:100::9b85:ef06]:80 ([2404:3fc0:5:100::9b85:ef06]:80)) - TIMEOUT
+[2023-03-09 17:27:05] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:5:100::9b85:ef07]:27019) - SUCCESS
+[2023-03-09 17:27:40] [Logged On, 4, 3] [U:1:1439669904] LogOff()
+[2023-03-09 17:27:40] [Logging Off, 4, 3] [U:1:1439669904] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-09 17:27:40] [Logged Off, 0, 0] [U:1:1439669904] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (101.226.183.185:27021, WebSocket)
+[2023-03-09 17:27:40] [Logged Off, 0, 0] [U:1:1439669904] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-09 17:27:40] [Logged Off, 0, 0] [U:1:1439669904] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-09 17:27:43] [Logged Off, 0, 0] [U:1:1439669904] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678354063 seconds ago)
+[2023-03-09 17:27:43] [Logged Off, 0, 0] [U:1:1439669904] Log session ended
+
+
+[2023-03-09 17:27:46] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-09 17:27:46] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-09 17:27:54] [Logged Off, 0, 0] [U:1:0] LogOff()
+[2023-03-09 17:27:54] Connectivity test: OK!
+[2023-03-09 17:27:54] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-09 17:27:55] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-09 17:27:55] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:5:100::9b85:ef06]:80 ([2404:3fc0:5:100::9b85:ef06]:80)) - SUCCESS
+[2023-03-09 17:27:55] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:5:100::9b85:ef06]:80 ([2404:3fc0:5:100::9b85:ef06]:80)) - server indicated we are using ipv6, external address = '240e:3b1:18b5:45c0:2504:1ba9:babb:5f19'
+[2023-03-09 17:27:56] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:5:100::9b85:ef06]:27019) - SUCCESS
+[2023-03-09 17:27:56] GetCMListForConnect -- got 0 Netfilter CMs and 24 WebSocket CMs
+[2023-03-09 17:27:56] GetCMListForConnect -- DC 'sha1' count: 23
+[2023-03-09 17:27:56] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-09 17:27:56] No NetFilter CMs, defaulting to WebSockets
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27021) results: 52.0906ms + load 35.0000
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27020) results: 46.0415ms + load 34.0000
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) results: 45.6028ms + load 37.0000
+[2023-03-09 17:27:56] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 245.8048ms + load 4.0000
+[2023-03-09 17:27:56] [Connecting, 0, 3] [U:1:0] Connect() starting connection (eNetQOSLevelHigh, cm3-ct-sha1.cm.wmsjsteam.com:27020, WebSocket)
+[2023-03-09 17:27:56] [Connecting, 0, 3] [U:1:0] ConnectionCompleted() (101.226.183.182:27020, WebSocket) local address (192.168.1.2:5477)
+[2023-03-09 17:27:56] [Connecting, 0, 3] [U:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-09 17:28:07] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-09 17:28:08] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-09 17:28:09] Clearing in-memory token - 1 (OK): set to null
+[2023-03-09 17:28:09] [Connected, 0, 3] [U:1:1520752592] CCMInterface::SetSteamID( [U:1:1520752592] )
+[2023-03-09 17:28:09] [Connected, 0, 3] [U:1:1520752592] CCMInterface::SetSteamID( [U:1:1520752592] )
+[2023-03-09 17:28:09] [Connected, 4, 3] [U:1:1520752592] LogOn() called; already connected, sending credentials.
+
+[2023-03-09 17:28:09] [Connected, 4, 3] [U:1:1520752592] Logging on [U:1:1520752592]
+[2023-03-09 17:28:09] [Logging On, 4, 3] [U:1:1520752592] Using JWT
+[2023-03-09 17:28:09] [Logging On, 4, 3] [U:1:1520752592] RecvMsgClientLogOnResponse() : [U:1:1520752592] 'OK'
+[2023-03-09 17:28:09] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 17:29:38] [Logged On, 4, 3] [U:1:1520752592] LogOff()
+[2023-03-09 17:29:38] [Logging Off, 4, 3] [U:1:1520752592] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-09 17:29:38] [Logged Off, 0, 0] [U:1:1520752592] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (101.226.183.182:27020, WebSocket)
+[2023-03-09 17:29:38] [Logged Off, 0, 0] [U:1:1520752592] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-09 17:29:38] [Logged Off, 0, 0] [U:1:1520752592] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-09 17:29:39] [Logged Off, 0, 0] [U:1:1520752592] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678354179 seconds ago)
+[2023-03-09 17:29:39] [Logged Off, 0, 0] [U:1:1520752592] Log session ended
+
+
+[2023-03-09 17:29:42] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-09 17:29:42] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-09 17:29:50] [Logged Off, 0, 0] [U:1:0] LogOff()
+[2023-03-09 17:29:51] Connectivity test: OK!
+[2023-03-09 17:29:51] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-09 17:29:51] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-09 17:29:52] GetCMListForConnect -- got 0 Netfilter CMs and 27 WebSocket CMs
+[2023-03-09 17:29:52] GetCMListForConnect -- DC 'sha1' count: 26
+[2023-03-09 17:29:52] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-09 17:29:52] No NetFilter CMs, defaulting to WebSockets
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:27020) starting...
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:443) results: 52.2385ms + load 37.0000
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:27020) results: 46.2179ms + load 36.0000
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:27022) results: 54.5158ms + load 36.0000
+[2023-03-09 17:29:52] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2404:3fc0:5:100::9b85:ef06]:80 ([2404:3fc0:5:100::9b85:ef06]:80)) - TIMEOUT
+[2023-03-09 17:29:52] [Connecting, 0, 0] [U:1:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 246.5582ms + load 3.0000
+[2023-03-09 17:29:52] [Connecting, 0, 3] [U:1:0] Connect() starting connection (eNetQOSLevelHigh, cm4-ct-sha1.cm.wmsjsteam.com:27020, WebSocket)
+[2023-03-09 17:29:52] [Connecting, 0, 3] [U:1:0] ConnectionCompleted() (101.226.183.187:27020, WebSocket) local address (192.168.1.2:5671)
+[2023-03-09 17:29:52] [Connecting, 0, 3] [U:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-09 17:29:52] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:5:101::9b85:ef28]:27019) - SUCCESS
+[2023-03-09 17:30:10] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-09 17:30:10] [Connected, 0, 3] [U:1:0] EConnect called while we're already connected
+[2023-03-09 17:30:11] Clearing in-memory token - 1 (OK): set to null
+[2023-03-09 17:30:11] [Connected, 0, 3] [U:1:1521310479] CCMInterface::SetSteamID( [U:1:1521310479] )
+[2023-03-09 17:30:11] [Connected, 0, 3] [U:1:1521310479] CCMInterface::SetSteamID( [U:1:1521310479] )
+[2023-03-09 17:30:11] [Connected, 4, 3] [U:1:1521310479] LogOn() called; already connected, sending credentials.
+
+[2023-03-09 17:30:11] [Connected, 4, 3] [U:1:1521310479] Logging on [U:1:1521310479]
+[2023-03-09 17:30:11] [Logging On, 4, 3] [U:1:1521310479] Using JWT
+[2023-03-09 17:30:11] [Logging On, 4, 3] [U:1:1521310479] RecvMsgClientLogOnResponse() : [U:1:1521310479] 'OK'
+[2023-03-09 17:30:11] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 18:30:11] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 18:51:56] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (1130640345)
+[2023-03-09 18:51:56] CCMInterface::OnNetworkDeviceStateChange -- Already connected...
+[2023-03-09 18:51:57] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 18:51:57] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 18:52:01] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 18:52:01] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 18:52:04] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 18:52:05] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 18:52:08] CCMInterface::CheckSuspectConnectionWorking() -- Checking if current connection is still good
+[2023-03-09 18:52:08] CCMInterface - received heartbeat response, connection still good
+[2023-03-09 18:53:24] [Logged On, 4, 3] [U:1:1521310479] LogOff()
+[2023-03-09 18:53:24] [Logging Off, 4, 3] [U:1:1521310479] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-03-09 18:53:24] [Logged Off, 0, 0] [U:1:1521310479] ConnectionDisconnected('Disconnected By Remote Host') : 'OK' (101.226.183.187:27020, WebSocket)
+[2023-03-09 18:53:24] [Logged Off, 0, 0] [U:1:1521310479] ConnectionDisconnected() not auto reconnecting due to user initiated logoff
+[2023-03-09 18:53:24] [Logged Off, 0, 0] [U:1:1521310479] Sending SteamServersDisconnected_t because we were logged on
+[2023-03-09 18:53:29] [Logged Off, 0, 0] [U:1:1521310479] ResetVoiceRecording() (was recording: 0) (last get voice time: 1678359209 seconds ago)
+[2023-03-09 18:53:29] [Logged Off, 0, 0] [U:1:1521310479] Log session ended
+
+
+[2023-03-09 19:09:14] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2023-03-09 19:09:14] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2023-03-09 19:09:21] [Logged Off, 0, 0] [U:1:1521310479] CCMInterface::SetSteamID( [U:1:1521310479] )
+[2023-03-09 19:09:21] [Logged Off, 0, 0] [U:1:1521310479] CCMInterface::SetSteamID( [U:1:1521310479] )
+[2023-03-09 19:09:21] [Logged Off, 4, 0] [U:1:1521310479] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2023-03-09 19:09:21] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-03-09 19:09:21] Connectivity test: OK!
+[2023-03-09 19:09:21] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2023-03-09 19:09:22] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-03-09 19:09:22] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2404:3fc0:5:100::9b85:ef07]:27019) - SUCCESS
+[2023-03-09 19:09:22] GetCMListForConnect -- got 0 Netfilter CMs and 26 WebSocket CMs
+[2023-03-09 19:09:22] GetCMListForConnect -- DC 'sha1' count: 25
+[2023-03-09 19:09:22] GetCMListForConnect -- DC 'sea1' count: 1
+[2023-03-09 19:09:22] No NetFilter CMs, defaulting to WebSockets
+[2023-03-09 19:09:22] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2023-03-09 19:09:22] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27022) starting...
+[2023-03-09 19:09:22] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2023-03-09 19:09:22] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) starting...
+[2023-03-09 19:09:22] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (cm3-ct-sha1.cm.wmsjsteam.com:27021) results: 84.6081ms + load 36.0000
+[2023-03-09 19:09:22] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27022) results: 84.6138ms + load 36.0000
+[2023-03-09 19:09:22] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:443) results: 78.1717ms + load 39.0000
+[2023-03-09 19:09:23] [Connecting, 4, 0] [U:1:1521310479] PingWebSocketCM() (ext2-sea1.steamserver.net:27026) results: 160.3117ms + load 3.0000
+[2023-03-09 19:09:23] [Connecting, 4, 3] [U:1:1521310479] Connect() starting connection (eNetQOSLevelHigh, cm1-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2023-03-09 19:09:23] [Connecting, 4, 3] [U:1:1521310479] ConnectionCompleted() (140.206.230.138:443, WebSocket) local address (192.168.1.2:8481)
+[2023-03-09 19:09:23] [Connecting, 4, 3] [U:1:1521310479] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-03-09 19:09:23] [Connected, 4, 3] [U:1:1521310479] Logging on [U:1:1521310479]
+[2023-03-09 19:09:23] [Logging On, 4, 3] [U:1:1521310479] Using JWT
+[2023-03-09 19:09:23] [Logging On, 4, 3] [U:1:1521310479] RecvMsgClientLogOnResponse() : [U:1:1521310479] 'OK'
+[2023-03-09 19:09:23] CClientJobGetClientUpdateHosts: cached version not expired
+[2023-03-09 20:09:23] CClientJobGetClientUpdateHosts: cached version not expired

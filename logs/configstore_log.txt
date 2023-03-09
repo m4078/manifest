@@ -1,0 +1,22 @@
+
+
+[2023-03-09 19:09:23] Flushed store 'install' to 'D:\STEAM\config\config.vdf'
+[2023-03-09 19:09:23] Roaming config - read via RemoteStorage().FileRead
+[2023-03-09 19:09:23] Roaming config - integrating write-aside store into cloud store
+[2023-03-09 19:09:24] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 19:09:25] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 19:09:26] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 19:09:28] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 19:09:30] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 19:24:55] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 19:41:19] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 19:56:23] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:03:50] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:03:50] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:03:52] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:03:53] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:04:24] Flushed store 'install' to 'D:\STEAM\config\config.vdf'
+[2023-03-09 20:11:54] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:25:36] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:41:58] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'
+[2023-03-09 20:58:14] Flushed store 'userlocal' to 'D:\STEAM\userdata\1521310479\config\localconfig.vdf'

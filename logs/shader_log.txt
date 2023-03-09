@@ -1,0 +1,975 @@
+
+
+[2023-03-05 16:31:58] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:31:59] Unknown shader cache type, ignoring.
+[2023-03-05 16:31:59] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 16:31:59] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 16:31:59] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:32:00] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 16:32:00] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 16:32:00] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 16:32:00] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:32:00] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 16:32:00] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 16:32:00] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:32:01] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 16:32:01] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-05 16:32:01] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 16:32:01] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:32:02] Found 2 current buckets:
+[2023-03-05 16:32:02] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-05 16:32:02] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-05 16:41:55] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-05 16:41:55] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-05 16:41:55] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-05 16:41:55] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-05 16:41:55] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 16:41:55] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-05 16:41:55] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 3380451511759155673
+[2023-03-05 16:41:55] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 16:41:55] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-05 16:41:55] [ AppID 1091500 ] Queuing depot manifest 4240493613208938749 (906274 bytes) for bucket ID 11228084, type 2d5bcf71f3cf99a8/W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-05 16:47:57] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\242760 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:49:47] AppID 242760 exited.
+[2023-03-05 16:49:47] Finding NVIDIA cache files, base directory: E:\SteamLibrary\steamapps\shadercache\242760.
+[2023-03-05 16:49:47] Crawling complete, found 0 different buckets:
+
+
+[2023-03-05 16:50:04] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 16:50:04] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 16:50:07] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:50:07] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 16:50:07] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 16:50:07] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 16:50:07] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:50:08] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 16:50:08] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 16:50:08] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:50:08] Unknown shader cache type, ignoring.
+[2023-03-05 16:50:09] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 16:50:09] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 16:50:09] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:50:09] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 16:50:09] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 16:50:09] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 16:50:09] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:50:10] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 16:50:10] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 16:50:10] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:50:10] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 16:50:10] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-05 16:50:10] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 16:50:10] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:50:11] Found 2 current buckets:
+[2023-03-05 16:50:11] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-05 16:50:11] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-05 16:50:11] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-05 16:50:11] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-05 16:50:11] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-05 16:50:11] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-05 16:50:11] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 16:50:11] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-05 16:50:11] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 3380451511759155673
+[2023-03-05 16:50:11] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 16:50:11] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-05 16:50:12] [ AppID 1091500 ] Queuing depot manifest 4240493613208938749 (906274 bytes) for bucket ID 11228084, type 2d5bcf71f3cf99a8/W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-05 16:50:21] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\242760 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:53:08] AppID 242760 exited.
+[2023-03-05 16:53:08] Finding NVIDIA cache files, base directory: E:\SteamLibrary\steamapps\shadercache\242760.
+[2023-03-05 16:53:08] Crawling complete, found 0 different buckets:
+
+
+[2023-03-05 16:53:15] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 16:53:17] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 16:53:17] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:53:18] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 16:53:18] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 16:53:18] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 16:53:18] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:53:19] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 16:53:19] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 16:53:19] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:53:19] Unknown shader cache type, ignoring.
+[2023-03-05 16:53:19] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 16:53:19] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 16:53:19] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:53:20] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 16:53:20] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 16:53:20] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 16:53:20] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:53:21] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 16:53:21] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 16:53:21] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 16:53:21] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 16:53:21] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-05 16:53:21] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 16:53:21] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-05 16:53:22] Found 2 current buckets:
+[2023-03-05 16:53:22] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-05 16:53:22] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+
+
+[2023-03-05 19:21:40] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 19:21:43] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 19:21:43] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 19:21:44] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 19:21:44] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 19:21:44] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 19:21:44] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 19:21:45] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 19:21:45] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 19:21:45] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 19:21:45] Unknown shader cache type, ignoring.
+[2023-03-05 19:21:46] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 19:21:46] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 19:21:46] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 19:21:46] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 19:21:46] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 19:21:46] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 19:21:46] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 19:21:47] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 19:21:47] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 19:21:47] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 19:21:47] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 19:21:47] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-05 19:21:47] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 19:21:47] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-05 19:21:48] Found 2 current buckets:
+[2023-03-05 19:21:48] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-05 19:21:48] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+
+
+[2023-03-05 23:27:35] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 23:27:37] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 23:27:37] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:27:38] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 23:27:38] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 23:27:38] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 23:27:38] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 23:27:38] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 23:27:38] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 23:27:38] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:27:38] Unknown shader cache type, ignoring.
+[2023-03-05 23:27:39] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 23:27:39] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 23:27:39] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:27:39] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 23:27:39] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 23:27:39] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 23:27:39] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 23:27:39] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 23:27:39] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 23:27:39] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:27:40] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 23:27:40] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-05 23:27:40] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 23:27:40] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-05 23:27:40] Found 2 current buckets:
+[2023-03-05 23:27:40] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-05 23:27:40] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-05 23:27:51] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-05 23:27:51] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-05 23:27:51] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-05 23:27:51] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-05 23:27:51] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 23:27:51] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-05 23:27:51] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 3380451511759155673
+[2023-03-05 23:27:51] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 23:27:51] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-05 23:27:52] [ AppID 1091500 ] Queuing depot manifest 4240493613208938749 (906274 bytes) for bucket ID 11228084, type 2d5bcf71f3cf99a8/W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-05 23:27:52] [AppID 1091500] Starting Shader Swarm download job.
+[2023-03-05 23:27:52] [AppID 1091500] Target manifest 4240493613208938749 of size 906274 key 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-05 23:27:52] [AppID 1091500] Source manifest 3380451511759155673 of size 892478.
+[2023-03-05 23:27:55] Committed bucket 11228084 (AppID 1091500) from 3380451511759155673 to 4240493613208938749.
+[2023-03-05 23:27:55] Committed bucket 11228084 (AppID 1091500) contains file 'nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin'.
+[2023-03-05 23:27:55] Committed bucket 11228084 (AppID 1091500) contains file 'nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc'.
+[2023-03-05 23:27:55] [AppID 1091500] Finished Shader Swarm download job: No Error
+[2023-03-05 23:27:55] Processing downloaded cache for AppID 1091500, BucketID 11228084.
+[2023-03-05 23:27:55] CProcessShaderCacheJob done for AppID 1091500.
+
+
+[2023-03-05 23:35:17] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 23:35:20] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-05 23:35:20] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:35:21] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 23:35:21] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 23:35:21] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-05 23:35:21] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 23:35:21] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 23:35:21] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-05 23:35:21] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:35:21] Unknown shader cache type, ignoring.
+[2023-03-05 23:35:22] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 23:35:22] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-05 23:35:22] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:35:23] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 23:35:23] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-05 23:35:23] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-05 23:35:23] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-05 23:35:23] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 23:35:23] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-05 23:35:23] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-05 23:35:24] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 23:35:24] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-05 23:35:24] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-05 23:35:24] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-05 23:35:24] Found 2 current buckets:
+[2023-03-05 23:35:24] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-05 23:35:24] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-05 23:35:24] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-05 23:35:24] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-05 23:35:24] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-05 23:35:24] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-05 23:35:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 23:35:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-05 23:35:24] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-05 23:35:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-05 23:35:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 00:06:29] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:06:31] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:06:31] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:06:32] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:06:32] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:06:32] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:06:32] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:06:32] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:06:32] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:06:32] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:06:32] Unknown shader cache type, ignoring.
+[2023-03-06 00:06:33] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:06:33] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:06:33] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:06:33] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:06:33] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:06:33] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:06:33] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:06:33] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:06:33] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:06:33] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:06:34] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:06:34] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 00:06:34] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:06:34] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:06:34] Found 2 current buckets:
+[2023-03-06 00:06:34] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 00:06:34] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 00:06:36] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 00:06:36] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 00:06:36] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 00:06:36] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 00:06:36] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:06:36] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 00:06:36] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 00:06:36] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:06:36] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 00:16:38] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:16:46] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:16:46] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:16:46] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:16:46] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:16:46] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:16:46] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:16:47] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:16:47] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:16:47] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:16:47] Unknown shader cache type, ignoring.
+[2023-03-06 00:16:47] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:16:47] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:16:47] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:16:47] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:16:47] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:16:47] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:16:47] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:16:48] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:16:48] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:16:48] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:16:48] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:16:48] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 00:16:48] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:16:48] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:16:48] Found 2 current buckets:
+[2023-03-06 00:16:48] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 00:16:48] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 00:16:48] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 00:16:48] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 00:16:48] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 00:16:48] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 00:16:48] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:16:48] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 00:16:48] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 00:16:48] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:16:48] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 00:17:20] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:17:21] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:17:21] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:17:22] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:17:22] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:17:22] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:17:22] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:17:22] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:17:22] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:17:22] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:17:22] Unknown shader cache type, ignoring.
+[2023-03-06 00:17:23] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:17:23] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:17:23] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:17:23] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:17:23] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:17:23] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:17:23] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:17:23] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:17:23] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:17:23] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:17:24] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:17:24] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 00:17:24] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:17:24] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:17:24] Found 2 current buckets:
+[2023-03-06 00:17:24] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 00:17:24] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 00:17:24] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 00:17:24] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 00:17:24] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 00:17:24] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 00:17:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:17:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 00:17:24] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 00:17:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:17:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 00:21:27] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:21:29] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:21:29] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:21:30] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:21:30] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:21:30] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:21:30] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:21:30] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:21:30] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:21:30] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:21:30] Unknown shader cache type, ignoring.
+[2023-03-06 00:21:31] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:21:31] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:21:31] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:21:31] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:21:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:21:31] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:21:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:21:31] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:21:31] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:21:31] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:21:31] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:21:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 00:21:31] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:21:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:21:32] Found 2 current buckets:
+[2023-03-06 00:21:32] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 00:21:32] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 00:21:32] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 00:21:32] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 00:21:32] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 00:21:32] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 00:21:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:21:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 00:21:32] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 00:21:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:21:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 00:24:28] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:24:29] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 00:24:29] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:24:29] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:24:29] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:24:29] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 00:24:29] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:24:30] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:24:30] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 00:24:30] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:24:30] Unknown shader cache type, ignoring.
+[2023-03-06 00:24:30] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:24:30] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 00:24:30] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:24:31] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:24:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 00:24:31] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 00:24:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:24:31] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:24:31] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 00:24:31] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 00:24:31] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:24:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 00:24:31] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 00:24:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 00:24:32] Found 2 current buckets:
+[2023-03-06 00:24:32] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 00:24:32] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 00:24:32] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 00:24:32] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 00:24:32] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 00:24:32] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 00:24:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:24:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 00:24:32] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 00:24:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 00:24:32] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 03:53:03] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 03:53:09] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 03:53:09] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 03:53:09] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 03:53:09] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 03:53:09] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 03:53:09] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 03:53:10] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 03:53:10] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 03:53:10] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 03:53:10] Unknown shader cache type, ignoring.
+[2023-03-06 03:53:10] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 03:53:10] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 03:53:10] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 03:53:10] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 03:53:10] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 03:53:10] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 03:53:10] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 03:53:11] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 03:53:11] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 03:53:11] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 03:53:11] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 03:53:11] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 03:53:11] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 03:53:11] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 03:53:12] Found 2 current buckets:
+[2023-03-06 03:53:12] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 03:53:12] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 03:53:12] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 03:53:12] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 03:53:12] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 03:53:12] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 03:53:12] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 03:53:12] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 03:53:12] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 03:53:12] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 03:53:12] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 04:07:37] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\990080
+[2023-03-06 04:07:37] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:07:44] AppID 990080 exited.
+[2023-03-06 04:07:44] Unknown shader cache type, ignoring.
+[2023-03-06 04:11:31] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:11:41] AppID 990080 exited.
+[2023-03-06 04:11:41] Unknown shader cache type, ignoring.
+[2023-03-06 04:11:57] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:12:06] AppID 990080 exited.
+[2023-03-06 04:12:06] Unknown shader cache type, ignoring.
+[2023-03-06 04:12:50] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:12:59] AppID 990080 exited.
+[2023-03-06 04:12:59] Unknown shader cache type, ignoring.
+[2023-03-06 04:16:27] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:16:38] AppID 990080 exited.
+[2023-03-06 04:16:38] Unknown shader cache type, ignoring.
+[2023-03-06 04:16:58] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:17:07] AppID 990080 exited.
+[2023-03-06 04:17:07] Unknown shader cache type, ignoring.
+[2023-03-06 04:21:16] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:21:26] AppID 990080 exited.
+[2023-03-06 04:21:26] Unknown shader cache type, ignoring.
+[2023-03-06 04:21:48] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:21:57] AppID 990080 exited.
+[2023-03-06 04:21:57] Unknown shader cache type, ignoring.
+[2023-03-06 04:24:06] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:24:15] AppID 990080 exited.
+[2023-03-06 04:24:15] Unknown shader cache type, ignoring.
+[2023-03-06 04:24:23] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:24:32] AppID 990080 exited.
+[2023-03-06 04:24:32] Unknown shader cache type, ignoring.
+[2023-03-06 04:25:08] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:25:17] AppID 990080 exited.
+[2023-03-06 04:25:17] Unknown shader cache type, ignoring.
+[2023-03-06 04:25:41] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:25:50] AppID 990080 exited.
+[2023-03-06 04:25:50] Unknown shader cache type, ignoring.
+[2023-03-06 04:26:18] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:26:27] AppID 990080 exited.
+[2023-03-06 04:26:27] Unknown shader cache type, ignoring.
+[2023-03-06 04:27:25] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:27:35] AppID 990080 exited.
+[2023-03-06 04:27:35] Unknown shader cache type, ignoring.
+[2023-03-06 04:32:07] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:32:17] AppID 990080 exited.
+[2023-03-06 04:32:17] Unknown shader cache type, ignoring.
+[2023-03-06 04:32:35] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:32:44] AppID 990080 exited.
+[2023-03-06 04:32:44] Unknown shader cache type, ignoring.
+[2023-03-06 04:33:42] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:33:51] AppID 990080 exited.
+[2023-03-06 04:33:51] Unknown shader cache type, ignoring.
+[2023-03-06 04:34:40] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:34:50] AppID 990080 exited.
+[2023-03-06 04:34:50] Unknown shader cache type, ignoring.
+[2023-03-06 04:38:50] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:38:56] AppID 990080 exited.
+[2023-03-06 04:38:56] Unknown shader cache type, ignoring.
+[2023-03-06 04:39:19] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:39:29] AppID 990080 exited.
+[2023-03-06 04:39:29] Unknown shader cache type, ignoring.
+[2023-03-06 04:39:35] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:39:44] AppID 990080 exited.
+[2023-03-06 04:39:44] Unknown shader cache type, ignoring.
+[2023-03-06 04:42:02] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:42:11] AppID 990080 exited.
+[2023-03-06 04:42:11] Unknown shader cache type, ignoring.
+[2023-03-06 04:42:51] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:43:00] AppID 990080 exited.
+[2023-03-06 04:43:00] Unknown shader cache type, ignoring.
+[2023-03-06 04:43:47] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:43:56] AppID 990080 exited.
+[2023-03-06 04:43:56] Unknown shader cache type, ignoring.
+[2023-03-06 04:44:20] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:44:29] AppID 990080 exited.
+[2023-03-06 04:44:29] Unknown shader cache type, ignoring.
+[2023-03-06 04:45:30] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:45:41] AppID 990080 exited.
+[2023-03-06 04:45:41] Unknown shader cache type, ignoring.
+[2023-03-06 04:46:11] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:46:20] AppID 990080 exited.
+[2023-03-06 04:46:20] Unknown shader cache type, ignoring.
+[2023-03-06 04:47:19] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:47:28] AppID 990080 exited.
+[2023-03-06 04:47:28] Unknown shader cache type, ignoring.
+[2023-03-06 04:49:31] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:49:33] AppID 990080 exited.
+[2023-03-06 04:49:33] Unknown shader cache type, ignoring.
+[2023-03-06 04:50:21] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:50:23] AppID 990080 exited.
+[2023-03-06 04:50:23] Unknown shader cache type, ignoring.
+[2023-03-06 04:51:18] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:51:59] AppID 990080 exited.
+[2023-03-06 04:51:59] Unknown shader cache type, ignoring.
+[2023-03-06 04:54:27] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:54:37] AppID 990080 exited.
+[2023-03-06 04:54:37] Unknown shader cache type, ignoring.
+[2023-03-06 04:54:46] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:54:55] AppID 990080 exited.
+[2023-03-06 04:54:55] Unknown shader cache type, ignoring.
+[2023-03-06 04:55:30] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:55:45] AppID 990080 exited.
+[2023-03-06 04:55:45] Unknown shader cache type, ignoring.
+[2023-03-06 04:55:53] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:56:03] AppID 990080 exited.
+[2023-03-06 04:56:03] Unknown shader cache type, ignoring.
+[2023-03-06 04:59:22] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:59:26] AppID 990080 exited.
+[2023-03-06 04:59:26] Unknown shader cache type, ignoring.
+[2023-03-06 04:59:36] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\990080 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 04:59:40] AppID 990080 exited.
+[2023-03-06 04:59:40] Unknown shader cache type, ignoring.
+
+
+[2023-03-06 16:30:29] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 16:30:30] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 16:30:30] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:31] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 16:30:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 16:30:31] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 16:30:31] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:30:31] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 16:30:31] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 16:30:31] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:31] Unknown shader cache type, ignoring.
+[2023-03-06 16:30:32] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 16:30:32] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 16:30:32] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:32] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 16:30:32] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 16:30:32] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 16:30:32] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:30:33] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 16:30:33] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 16:30:33] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:33] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 16:30:33] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 16:30:33] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 16:30:33] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:30:34] Found 2 current buckets:
+[2023-03-06 16:30:34] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 16:30:34] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 16:30:34] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 16:30:34] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 16:30:34] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 16:30:34] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 16:30:34] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 16:30:34] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 16:30:34] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 16:30:34] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 16:30:34] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 16:30:53] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 16:30:54] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 16:30:54] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:54] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 16:30:54] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 16:30:54] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 16:30:54] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:30:55] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 16:30:55] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 16:30:55] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:55] Unknown shader cache type, ignoring.
+[2023-03-06 16:30:55] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 16:30:55] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 16:30:55] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:56] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 16:30:56] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 16:30:56] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 16:30:56] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:30:56] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 16:30:56] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 16:30:56] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:30:57] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 16:30:57] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 16:30:57] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 16:30:57] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:30:57] Found 2 current buckets:
+[2023-03-06 16:30:57] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 16:30:57] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 16:32:24] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 16:32:24] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 16:32:24] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 16:32:24] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 16:32:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 16:32:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 16:32:24] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 16:32:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 16:32:24] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 16:50:00] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 16:50:16] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 16:50:16] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:50:17] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 16:50:17] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 16:50:17] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 16:50:17] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:50:17] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 16:50:17] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 16:50:17] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:50:17] Unknown shader cache type, ignoring.
+[2023-03-06 16:50:18] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 16:50:18] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 16:50:18] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:50:18] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 16:50:18] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 16:50:18] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 16:50:18] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:50:19] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 16:50:19] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 16:50:19] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 16:50:19] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 16:50:19] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 16:50:19] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 16:50:19] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 16:50:20] Found 2 current buckets:
+[2023-03-06 16:50:20] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 16:50:20] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 16:50:20] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 16:50:20] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 16:50:20] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 16:50:20] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 16:50:20] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 16:50:20] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 16:50:20] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 16:50:20] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 16:50:20] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-06 17:28:04] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 17:28:05] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-06 17:28:05] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 17:28:06] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 17:28:06] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 17:28:06] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-06 17:28:06] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 17:28:06] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 17:28:06] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-06 17:28:06] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 17:28:06] Unknown shader cache type, ignoring.
+[2023-03-06 17:28:07] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 17:28:07] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-06 17:28:07] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 17:28:07] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 17:28:07] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-06 17:28:07] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-06 17:28:07] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-06 17:28:08] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 17:28:08] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-06 17:28:08] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 17:28:09] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 17:28:09] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-06 17:28:09] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-06 17:28:09] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-06 17:28:09] Found 2 current buckets:
+[2023-03-06 17:28:09] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-06 17:28:09] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-06 17:28:15] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-06 17:28:15] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-06 17:28:15] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-06 17:28:15] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-06 17:28:15] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 17:28:15] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 17:28:15] Read committed bucket for appID 1091500 Bucket ID: 11228084 Manifest: 4240493613208938749
+[2023-03-06 17:28:15] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-06 17:28:15] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-06 17:28:26] Abandoned all bucket tracking progress for AppID 1091500.
+[2023-03-06 17:28:26] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1091500.
+[2023-03-06 17:28:31] [ AppID 1091500 ] Queuing depot manifest 4240493613208938749 (906274 bytes) for bucket ID 11228084, type 2d5bcf71f3cf99a8/W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-06 17:28:43] [AppID 1091500] Starting Shader Swarm download job.
+[2023-03-06 17:28:43] [AppID 1091500] Target manifest 4240493613208938749 of size 906274 key 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-06 17:28:44] Committed bucket 11228084 (AppID 1091500) from 0 to 4240493613208938749.
+[2023-03-06 17:28:44] Committed bucket 11228084 (AppID 1091500) contains file 'nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin'.
+[2023-03-06 17:28:44] Committed bucket 11228084 (AppID 1091500) contains file 'nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc'.
+[2023-03-06 17:28:44] [AppID 1091500] Finished Shader Swarm download job: No Error
+[2023-03-06 17:28:44] Processing downloaded cache for AppID 1091500, BucketID 11228084.
+[2023-03-06 17:28:44] CProcessShaderCacheJob done for AppID 1091500.
+[2023-03-06 17:31:58] Abandoned all bucket tracking progress for AppID 1091500.
+[2023-03-06 17:31:58] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1091500.
+[2023-03-06 17:32:10] [ AppID 1091500 ] Queuing depot manifest 4240493613208938749 (906274 bytes) for bucket ID 11228084, type 2d5bcf71f3cf99a8/W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-06 17:32:16] [AppID 1091500] Starting Shader Swarm download job.
+[2023-03-06 17:32:16] [AppID 1091500] Target manifest 4240493613208938749 of size 906274 key 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1.
+[2023-03-06 17:32:17] Committed bucket 11228084 (AppID 1091500) from 0 to 4240493613208938749.
+[2023-03-06 17:32:17] Committed bucket 11228084 (AppID 1091500) contains file 'nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin'.
+[2023-03-06 17:32:17] Committed bucket 11228084 (AppID 1091500) contains file 'nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc'.
+[2023-03-06 17:32:17] [AppID 1091500] Finished Shader Swarm download job: No Error
+[2023-03-06 17:32:17] Processing downloaded cache for AppID 1091500, BucketID 11228084.
+[2023-03-06 17:32:17] CProcessShaderCacheJob done for AppID 1091500.
+[2023-03-06 17:32:46] Abandoned all bucket tracking progress for AppID 1091500.
+[2023-03-06 17:32:46] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1091500.
+[2023-03-06 17:37:13] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1448440
+[2023-03-06 17:37:13] Setting MESA_GLSL_CACHE_DIR=E:\SteamLibrary\steamapps\shadercache\1448440 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-06 17:40:53] AppID 1448440 exited.
+[2023-03-06 17:40:53] Unknown shader cache type, ignoring.
+
+
+[2023-03-07 20:14:09] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-07 20:14:17] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-07 20:14:17] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:14:18] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-07 20:14:18] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-07 20:14:18] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-07 20:14:18] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-07 20:14:18] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-07 20:14:18] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-07 20:14:18] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:14:18] Unknown shader cache type, ignoring.
+[2023-03-07 20:14:19] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-07 20:14:19] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-07 20:14:19] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:14:19] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-07 20:14:19] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-07 20:14:19] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-07 20:14:19] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-07 20:14:20] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-07 20:14:20] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-07 20:14:20] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:14:22] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-07 20:14:22] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-07 20:14:22] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-07 20:14:22] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-07 20:14:23] Found 2 current buckets:
+[2023-03-07 20:14:23] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-07 20:14:23] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-07 20:14:48] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-07 20:14:48] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-07 20:14:48] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-07 20:14:48] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-07 20:14:48] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-07 20:14:48] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-07 20:19:23] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-07 20:19:25] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-07 20:19:25] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:19:25] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-07 20:19:25] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-07 20:19:25] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-07 20:19:25] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-07 20:19:26] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-07 20:19:26] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-07 20:19:26] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:19:26] Unknown shader cache type, ignoring.
+[2023-03-07 20:19:26] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-07 20:19:26] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-07 20:19:26] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:19:26] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-07 20:19:26] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-07 20:19:26] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-07 20:19:26] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-07 20:19:27] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-07 20:19:27] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-07 20:19:27] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-07 20:19:27] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-07 20:19:27] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-07 20:19:27] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-07 20:19:27] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-07 20:19:28] Found 2 current buckets:
+[2023-03-07 20:19:28] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-07 20:19:28] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-07 20:19:42] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-07 20:19:42] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-07 20:19:42] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-07 20:19:42] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-07 20:19:42] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-07 20:19:42] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+[2023-03-09 17:25:44] Abandoned all bucket tracking progress for AppID 1326470.
+[2023-03-09 17:25:44] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1326470.
+
+
+[2023-03-09 17:26:54] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 17:27:03] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 17:27:03] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:03] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 17:27:03] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 17:27:03] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 17:27:03] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:27:04] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 17:27:04] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 17:27:04] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:04] Unknown shader cache type, ignoring.
+[2023-03-09 17:27:04] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 17:27:04] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 17:27:04] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:04] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 17:27:04] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 17:27:04] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 17:27:04] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:27:05] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 17:27:05] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 17:27:05] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:05] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 17:27:05] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-09 17:27:05] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 17:27:05] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:27:06] Found 2 current buckets:
+[2023-03-09 17:27:06] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-09 17:27:06] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-09 17:27:07] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-09 17:27:07] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-09 17:27:07] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-09 17:27:07] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-09 17:27:07] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-09 17:27:07] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-09 17:27:46] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 17:27:54] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 17:27:54] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:54] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 17:27:54] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 17:27:54] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 17:27:54] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:27:55] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 17:27:55] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 17:27:55] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:55] Unknown shader cache type, ignoring.
+[2023-03-09 17:27:55] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 17:27:55] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 17:27:55] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:56] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 17:27:56] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 17:27:56] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 17:27:56] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:27:56] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 17:27:56] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 17:27:56] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:27:57] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 17:27:57] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-09 17:27:57] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 17:27:57] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:27:57] Found 2 current buckets:
+[2023-03-09 17:27:57] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-09 17:27:57] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-09 17:28:10] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-09 17:28:10] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-09 17:28:10] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-09 17:28:10] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-09 17:28:10] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-09 17:28:10] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-09 17:29:42] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 17:29:50] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 17:29:50] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:29:51] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 17:29:51] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 17:29:51] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 17:29:51] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:29:51] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 17:29:51] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 17:29:51] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:29:51] Unknown shader cache type, ignoring.
+[2023-03-09 17:29:52] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 17:29:52] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 17:29:52] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:29:52] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 17:29:52] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 17:29:52] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 17:29:52] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:29:52] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 17:29:52] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 17:29:52] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 17:29:53] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 17:29:53] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-09 17:29:53] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 17:29:53] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-09 17:29:53] Found 2 current buckets:
+[2023-03-09 17:29:53] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-09 17:29:53] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-09 17:30:13] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-09 17:30:13] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-09 17:30:13] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-09 17:30:13] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-09 17:30:13] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-09 17:30:13] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
+
+
+[2023-03-09 19:09:14] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 19:09:21] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_64
+[2023-03-09 19:09:21] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 19:09:22] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 19:09:22] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 19:09:22] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_gl_64.
+[2023-03-09 19:09:22] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_gl_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 19:09:23] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 19:09:23] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_gl_32
+[2023-03-09 19:09:23] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_gl_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 19:09:23] Unknown shader cache type, ignoring.
+[2023-03-09 19:09:24] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 19:09:24] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_64
+[2023-03-09 19:09:24] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_64 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 19:09:24] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 19:09:24] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steamapp_shader_cache0.toc.
+[2023-03-09 19:09:24] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_64.
+[2023-03-09 19:09:24] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_64\nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532/steamapp_merged_shader_cache.toc.
+[2023-03-09 19:09:25] Attempting to find current bucket; temporary dir: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 19:09:25] Creating shader cache directory: D:\STEAM\shader_cache_temp_dir_vk_32
+[2023-03-09 19:09:25] Setting MESA_GLSL_CACHE_DIR=D:\STEAM\shader_cache_temp_dir_vk_32 MESA_DISK_CACHE_READ_ONLY_FOZ_DBS=steam_cache,steam_precompiled
+[2023-03-09 19:09:26] Finding NVIDIA cache files, base directory: D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 19:09:26] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steamapp_shader_cache0.toc.
+[2023-03-09 19:09:26] Writing NVIDIA cache of 1 buckets into D:\STEAM\shader_cache_temp_dir_vk_32.
+[2023-03-09 19:09:26] Processing NVIDIA cache file at D:\STEAM\shader_cache_temp_dir_vk_32\nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8/steamapp_merged_shader_cache.toc.
+[2023-03-09 19:09:27] Found 2 current buckets:
+[2023-03-09 19:09:27] 86f1af339d39a532 / W2:76eb0975a3413802b535c5afd5ac0503
+[2023-03-09 19:09:27] 2d5bcf71f3cf99a8 / W2:6f1cd12c20400a3a90e51880d0b42ad1
+[2023-03-09 19:09:27] Read committed bucket for appID 242760 Bucket ID: 11453995 Manifest: 7925262237685551355
+[2023-03-09 19:09:27] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.bin
+[2023-03-09 19:09:27] Committed bucket contains file: nvidiav1\GLCache\76eb0975a3413802b535c5afd5ac0503\86f1af339d39a532\steam_shader_cache.toc
+[2023-03-09 19:09:27] Read committed bucket for appID 242760 Bucket ID: 11496412 Manifest: 4989873146907849322
+[2023-03-09 19:09:27] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.bin
+[2023-03-09 19:09:27] Committed bucket contains file: nvidiav1\GLCache\6f1cd12c20400a3a90e51880d0b42ad1\2d5bcf71f3cf99a8\steam_shader_cache.toc
